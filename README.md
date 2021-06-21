@@ -11,7 +11,7 @@ If you want to test this. Just download and run following commands.
 ### `cd app-name`
 ### `npm start`
 
-Make changes to this to as many you want.
+Make changes to this as many as you want.
 
 Feel free to use.
 
